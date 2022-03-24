@@ -1,4 +1,4 @@
-package L8_Interface;
+package L8_Interface_BlackJack;
 
 public class Main_Game {
     public static void main(String[] args) {
@@ -15,12 +15,6 @@ public class Main_Game {
         blackJack.dealStock();
         blackJack.printWinner();
 
-        Deck deck = new Deck();
 
-        player1.takeCard(deck.randomCard());
-        player1.takeCard(deck.randomCard());
-        player1.takeCard(deck.randomCard());
-
-        player1.openCards();
     }
 }

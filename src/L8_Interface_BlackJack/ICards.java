@@ -1,4 +1,4 @@
-package L8_Interface;
+package L8_Interface_BlackJack;
 
 public interface ICards {
     //all methods in interface are public and abstract by default

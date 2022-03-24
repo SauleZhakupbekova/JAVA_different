@@ -1,4 +1,4 @@
-package L8_Interface;
+package L8_Interface_BlackJack;
 
 public interface IPlayers {
 
@@ -7,4 +7,10 @@ public interface IPlayers {
     boolean newCards();
 
     void openCards();
+
+    int score();
+
+    boolean isCanWin();
+
+    void setCanWin(boolean canWin);
 }

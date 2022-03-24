@@ -1,6 +1,6 @@
 package L6_Classes_Types;
 
-public class Animal_Gets_Sets {
+public class Animal_GetSet {
     // 1 - variables
     private String breed; // breed - порода
     private int age;

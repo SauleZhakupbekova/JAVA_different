@@ -1,4 +1,4 @@
-package L8_Interface;
+package L8_Interface_BlackJack;
 
 public interface IBlackJacks {
 
